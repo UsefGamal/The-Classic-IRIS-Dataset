@@ -9,10 +9,10 @@
 - logistic regression
 - train test split
 - cross validation
-
+### Plotting Histogram of features
+![PairPlot of data](Images/HistData750.png)
 ### Plotting Each Pair of features
 ![PairPlot of data](Images/pairplot.png)
-
 ### Plotting Incorrect predicts of Training set
 ![PairPlot of data](Images/incorrect_preds896.png)
 
