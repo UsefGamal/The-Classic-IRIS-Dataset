@@ -20,15 +20,15 @@
 ![PairPlot of data](Images/incorrect_preds304.png)
 
 ## Conclusion  
-- ```Accuracy :96.78%  for C = 10``` for training data
-- ```Accuracy :97.37% for C = 10``` for test data
+- ```Accuracy :100.00%  for C = 2``` for training data
+- ```Accuracy :100.00% for C = 2``` for test data
 ```
-        precision    recall  f1-score   support
-             0       1.00      1.00      1.00        14
-             1       1.00      0.90      0.95        10
-             2       0.93      1.00      0.97        14
+    precision    recall  f1-score   support
+         0       1.00      1.00      1.00        10
+         1       1.00      1.00      1.00        16
+         2       1.00      1.00      1.00        12
 
-      accuracy                           0.97        38
-     macro avg       0.98      0.97      0.97        38
-  weighted avg       0.98      0.97      0.97        38
+      accuracy                           1.00        38
+     macro avg       1.00      1.00      1.00        38
+  weighted avg       1.00      1.00      1.00        38
 ```
